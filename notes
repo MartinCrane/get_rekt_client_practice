@@ -1,0 +1,11 @@
+home page, load script
+
+bring in jquery node modules 
+
+Create models cocktails, ingredients
+Create CocktailsController
+Create CocktailsView.render()
+  
+  
+Create CocktailController
+Create CocktailsView.render()
